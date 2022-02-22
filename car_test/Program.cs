@@ -43,8 +43,8 @@ namespace car_test
                 Console.WriteLine("----------------------------------------------------------");
                 
             }
-            
-           
+
+            Console.Read();
            
 
 
